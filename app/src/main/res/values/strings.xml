@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ELE_SMS_ESHAN</string>
+    <string name="sender_id_number">Sender ID/Number</string>
+    <string name="s_no">S/No</string>
+    <string name="credit_card_number">Credit Card Number</string>
+    <string name="amount">Amount</string>
+    <string name="trans_date_time">Trans Date/Time</string>
+    <string name="sms_receive_date_time">Sms Receive Date/Time</string>
+    <string name="sms_inbox">SMS Inbox</string>
+</resources>
